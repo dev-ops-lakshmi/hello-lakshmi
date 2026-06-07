@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="card">
-        <h1>Hello Lakshmi garuuuusssss. Welcome to my beautiful world.</h1>
+        <h1>Hello Lakshmi garuuuus. Welcome to my beautiful world.</h1>
     </div>
 </body>
 </html>
